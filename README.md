@@ -1,8 +1,9 @@
 # MS-mega
-Sintetizador monofónico basado en el banco de osciladores del Korg MS-20 implementado por hardware en el ATmega 328p
+Sintetizador monofónico basado en el banco de osciladores del Korg MS-20 implementado por hardware en el ATmega 328p.
 
+Este trabajo fue realizado para la cátedra de Arquitectura de Computadoras (Facultad de Ingeniería UNLP).
 
-# Configuración mínima par testeo
+# Configuración mínima para testeo
 El sintetizador por defecto incializa con la nota MIDI 69 (La 4, f = 440Hz), por lo que sin realizar toda la conección MIDI ni de los potenciómetros se puede realizar un primer testeo.
 Para este mismo es necesario conectar:
   - PB 3 -> PD 4

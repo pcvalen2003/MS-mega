@@ -8,6 +8,7 @@ El sintetizador por defecto incializa con la nota MIDI 69 (La 4, f = 440Hz), por
 Para este mismo es necesario conectar:
   - PB 3 -> PD 4
   - {PC 0 - PC 4} -> 3,3 V (sino GND)
+
 Y las salidas de los osciladores se encuentran en
   - PD 6 : OSC 0
   - PB 2 : OSC 1
